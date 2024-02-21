@@ -1,0 +1,50 @@
+CRITICAL - 2024-01-28 13:03:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard_view', [], true)
+ 3 APPPATH\Controllers\Beranda.php(17): view('dashboard_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Beranda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\sipadummy\\public\\index.php')
+CRITICAL - 2024-01-28 13:03:44 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard_view', [], true)
+ 3 APPPATH\Controllers\Beranda.php(17): view('dashboard_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Beranda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\sipadummy\\public\\index.php')
+CRITICAL - 2024-01-28 13:04:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard_view', [], true)
+ 3 APPPATH\Controllers\Beranda.php(17): view('dashboard_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Beranda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\sipadummy\\public\\index.php')
+CRITICAL - 2024-01-28 13:05:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard_view', [], true)
+ 3 APPPATH\Controllers\Beranda.php(17): view('dashboard_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Beranda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\sipadummy\\public\\index.php')
+CRITICAL - 2024-01-28 13:05:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard_view', [], true)
+ 3 APPPATH\Controllers\Beranda.php(17): view('dashboard_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Beranda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\sipadummy\\public\\index.php')
